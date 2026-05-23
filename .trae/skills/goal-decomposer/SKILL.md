@@ -32,7 +32,7 @@ triggers:
 - "愿望清单：..."
 - "帮我拆解..."
 - "我想在 X 时间内做到 Y"
-- "@goal-decomposer ..."
+- "/goal-decomposer ..."
 
 ## Workflow
 

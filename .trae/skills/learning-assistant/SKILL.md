@@ -35,7 +35,7 @@ triggers:
 - "用费曼法解释 X"
 - "帮我生成复习计划"
 - "我不理解 X，帮我拆解"
-- "@learning-assistant ..."
+- "/learning-assistant ..."
 
 ## Workflow
 

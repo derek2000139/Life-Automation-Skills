@@ -35,7 +35,7 @@ triggers:
 - "记录训练..."
 - "我想增肌/减脂/提高耐力..."
 - "帮我设计一周训练..."
-- "@fitness-planner ..."
+- "/fitness-planner ..."
 
 ## Workflow
 

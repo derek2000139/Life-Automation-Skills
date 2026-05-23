@@ -16,10 +16,10 @@
 在支持 AI 技能的平台（如 Trae）中，直接使用触发词调用对应技能即可。
 
 ```text
-@fitness-planner 帮我制定一个减脂计划
-@goal-decomposer 我想在年底存 5 万块
-@quick-journal 记录一下：今天开了好多会
-@learning-assistant 帮我学 JavaScript 闭包
+/fitness-planner 帮我制定一个减脂计划
+/goal-decomposer 我想在年底存 5 万块
+/quick-journal 记录一下：今天开了好多会
+/learning-assistant 帮我学 JavaScript 闭包
 ```
 
 ## 项目结构
