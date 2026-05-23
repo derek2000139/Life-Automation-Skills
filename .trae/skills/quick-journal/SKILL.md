@@ -15,7 +15,7 @@ triggers:
   - 我刚刚
   - 日记：
   - 记一笔
-  - "@quick-journal"
+  - "/quick-journal"
 ---
 
 # Quick Journal Skill

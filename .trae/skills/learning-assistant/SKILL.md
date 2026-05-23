@@ -15,7 +15,7 @@ triggers:
   - 用费曼法解释
   - 帮我生成复习计划
   - 我不理解
-  - "@learning-assistant"
+  - "/learning-assistant"
 ---
 
 # Learning Assistant Skill

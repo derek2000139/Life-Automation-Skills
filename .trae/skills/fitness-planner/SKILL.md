@@ -16,7 +16,7 @@ triggers:
   - 我想增肌
   - 我想减脂
   - 帮我设计一周训练
-  - "@fitness-planner"
+  - "/fitness-planner"
 ---
 
 # Fitness Planner Skill

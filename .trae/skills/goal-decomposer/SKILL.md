@@ -15,7 +15,7 @@ triggers:
   - 愿望清单：
   - 帮我拆解
   - 我想在
-  - "@goal-decomposer"
+  - "/goal-decomposer"
 ---
 
 # Goal Decomposer Skill
