@@ -1,0 +1,10 @@
+node_modules/
+.trae/skills/*/data/
+*.log
+.DS_Store
+Thumbs.db
+validate-skills.js
+validate-skills.ps1
+test-skills.md
+OPTIMIZATION_SUMMARY.md
+PRD.MD
