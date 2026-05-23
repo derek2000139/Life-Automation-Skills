@@ -58,7 +58,7 @@ triggers:
 **数据持久化：**
 - 将生成的条目追加保存到 `data/entries/YYYY-MM.md`（按月分文件）
 - 文件格式：Markdown，每个条目包含 front matter（date, time, tags）+ 内容
-- 如果目录不存在，自动创建
+- **首次写入时自动创建目录**：`data/entries/` 目录已随仓库提交（含 .gitkeep），如不存在则自动创建
 - 同一天多次记录，追加到当天日期下
 
 ### Step 3: 输出确认

@@ -61,6 +61,7 @@ triggers:
 **数据持久化：**
 - 将闪卡集保存到 `data/flashcards/{topic}-{timestamp}.md`
 - 同时更新 `data/flashcards/index.md`（主题索引）
+- **首次写入时自动创建目录**：`data/flashcards/` 目录已随仓库提交（含 .gitkeep），如不存在则自动创建
 - 避免重复生成同一主题的闪卡（先检查 index.md）
 
 ### Step 3: Feynman 模式
@@ -84,6 +85,7 @@ triggers:
 
 **数据持久化：**
 - 将复习计划保存到 `data/review-schedules/{topic}-{date}.md`
+- **首次写入时自动创建目录**：`data/review-schedules/` 目录已随仓库提交（含 .gitkeep），如不存在则自动创建
 - 在计划中包含复选框，方便用户标记完成状态
 - 支持用户更新复习状态（"今天完成了第2次复习"→更新对应复选框）
 

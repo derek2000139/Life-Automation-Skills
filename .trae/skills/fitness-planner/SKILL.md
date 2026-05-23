@@ -78,7 +78,7 @@ C. 查看进度分析（Report Mode）
 - 将本次训练记录追加保存到 `data/sessions/YYYY-MM.md`（按月分文件）
 - 文件格式：Markdown，每次训练一个条目，按日期倒序排列
 - 保存内容包括：日期、训练类型、动作明细、总容量、RPE、备注
-- 如果目录不存在，自动创建
+- **首次写入时自动创建目录**：`data/sessions/` 目录已随仓库提交（含 .gitkeep），如不存在则自动创建
 
 **数据读取（Report Mode 使用）：**
 - 读取 `data/sessions/` 目录下的所有 `.md` 文件

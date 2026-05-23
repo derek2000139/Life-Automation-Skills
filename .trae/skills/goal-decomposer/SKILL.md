@@ -66,6 +66,7 @@ triggers:
 **数据持久化：**
 - 将目标卡片保存到 `data/goals/goal-{timestamp}.md`
 - 同时更新 `data/goals/index.md`（目标索引列表）
+- **首次写入时自动创建目录**：`data/goals/` 目录已随仓库提交（含 .gitkeep），如不存在则自动创建
 - 文件包含：目标卡片 + Milestone 计划 + 完成状态追踪
 
 ### Step 4: 生成 Milestone 计划
